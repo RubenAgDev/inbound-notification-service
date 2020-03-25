@@ -22,7 +22,7 @@
     "good-squeeze": "^5.1.0",
     "hapi": "^16.7.0",
     "joi": "^10.6.0",
-    "mongoose": "^4.13.19"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "dotenv": "^4.0.0"
