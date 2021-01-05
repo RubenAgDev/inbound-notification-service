@@ -15,7 +15,7 @@
   "author": "Ruben Aguilar",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "boom": "^5.2.0",
     "good": "^7.3.0",
     "good-console": "^6.4.1",
